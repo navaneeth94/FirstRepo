@@ -10,7 +10,7 @@ public class Madhu {
 		System.setProperty("webdriver.chrome.driver","D:\\eclipse-java-photon-R-win32-x86_64\\chromedriver\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.get("w3schools.com/html/html_tables.asp");
-		
+		this is infosys laptop
 
 	}
 
