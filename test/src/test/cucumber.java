@@ -5,7 +5,8 @@ public class cucumber {
 		System.out.println("main job first job pullingo");
 		System.out.println("hi perosnal lap");
 		System.out.println("new addition in branch 2")
-		System.out.println("infy infy");
+		System.out.println("infy");
+
 	}
 	public method(){
 		System.out.println("infy");
